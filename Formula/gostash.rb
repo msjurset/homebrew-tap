@@ -1,4 +1,4 @@
-class Stash < Formula
+class Gostash < Formula
   desc "Store, organize, and retrieve links, files, snippets, images, and emails"
   homepage "https://github.com/msjurset/gostash"
   url "https://github.com/msjurset/gostash/archive/refs/tags/v0.3.0.tar.gz"

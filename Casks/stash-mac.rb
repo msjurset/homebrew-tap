@@ -7,7 +7,7 @@ cask "stash-mac" do
   desc "Mac app for storing, organizing, and retrieving content"
   homepage "https://github.com/msjurset/stash-mac"
 
-  depends_on formula: "msjurset/tap/stash"
+  depends_on formula: "msjurset/tap/gostash"
 
   app "Stash.app"
 end
