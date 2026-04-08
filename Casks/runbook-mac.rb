@@ -1,6 +1,6 @@
 cask "runbook-mac" do
-  version "1.3.0"
-  sha256 "589661424b8e8a65143b5722c7bdd84f8b594b65f620aaa62cdbece2f472f3cd"
+  version "1.4.0"
+  sha256 "9a88ee02ed1ea84b7317c719da68acb3d53487d703d2128a89cd1cc0f58b307f"
 
   url "https://github.com/msjurset/runbook-mac/releases/download/v#{version}/Runbook-#{version}.zip"
   name "Runbook"
