@@ -1,6 +1,6 @@
 cask "stash-mac" do
-  version "1.8.0"
-  sha256 "1536cfea31d5cb629dc7a5b6f7192c31156cca9fde838f7156bff5ff18a45b9d"
+  version "1.11.7"
+  sha256 "333632e901059339187e2f4b5bf52e51a755de78b0d2c8a52efb028c50025c02"
 
   url "https://github.com/msjurset/stash-mac/releases/download/v#{version}/Stash-#{version}.zip"
   name "Stash"
